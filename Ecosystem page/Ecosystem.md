@@ -6,4 +6,4 @@ In addition to these key metrics, we've also included important links for each p
 
 If you'd like to learn more about a particular project, simply click on its card and you'll be redirected to a more advanced page with even more detailed information. We hope that this page helps you to stay informed and connected with the Starknet ecosystem. Thank you for using our platform!
 
-It took us approximately 4 hours to set the up the user experience / interface of this page.
+It took us approximately 4 hours to set up the user experience / interface of this page.
